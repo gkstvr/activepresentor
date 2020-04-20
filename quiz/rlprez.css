@@ -1,0 +1,19 @@
+/*!
+ * ATOMI HTML5 Output File
+ * Copyright (c) Atomi Systems, Inc. All rights reserved.
+ * https://atomisystems.com
+ * Version: 7.3.1
+ * Date: 2018.07.11
+ */
+#yX0sBvMt .ap-focused {
+	outline: 1px dashed black;
+	outline-offset: 1px;
+}
+#yX0sBvMt p {
+	margin: 0;
+}
+#yX0sBvMt ol,ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
